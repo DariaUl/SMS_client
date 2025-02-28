@@ -1,1 +1,1 @@
-# CLI_application
+# SMS_client
