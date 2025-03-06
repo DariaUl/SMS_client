@@ -1,0 +1,6 @@
+/logs
+poetry.lock
+*/__pycache__
+/.vscode
+prism-cli-win.exe
+config.toml
