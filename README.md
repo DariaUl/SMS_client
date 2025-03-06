@@ -23,7 +23,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/your-repo/sms_client.git
+   git clone https://github.com/DariaUl/SMS_client
    cd sms_client
 
 2. **Установите зависимости через Poetry:**
